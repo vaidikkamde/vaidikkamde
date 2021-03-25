@@ -38,6 +38,7 @@
 </p>
 
 ⭐️ From [Vaidik Kamde](https://github.com/vaidikkamde)
+Gif Art By [Peter Henderson](https://dribbble.com/shots/6139167-Avento-marketing)
 <!---
 vaidikkamde/vaidikkamde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
