@@ -1,5 +1,5 @@
 <h2> Hello, I am Vaidik. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="300"/>
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="450"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
