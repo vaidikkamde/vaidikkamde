@@ -1,12 +1,14 @@
 <h2> Hello, I am Vaidik. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<a href="https://dribbble.com/shots/6139167-Avento-marketing">
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="450"/>
-
+</a>
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I have recently learned Flutter Application Development
+- 🔭 &nbsp; I am a Hybrid App Developer.
+- 💻 &nbsp; React Js, React Native and Flutter.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science from Lovely Professional University.
-- 💼 &nbsp; Full-stack web developer.
+- 💼 &nbsp; Full-stack web developer and App Developer Intern at Board Infinity.
 - 🌱 &nbsp; Enthusiast in Data Science.
 - ✍️ &nbsp; Watching Documenteries and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of cold coffee can be the ultimate solution for any stress. 
