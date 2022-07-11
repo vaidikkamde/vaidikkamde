@@ -8,7 +8,7 @@
 - 💻 &nbsp; React Js, React Native and Flutter.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science from Lovely Professional University.
-- 💼 &nbsp; Full-stack web developer and App Developer Intern at Board Infinity.
+- 💼 &nbsp; Full-stack web developer and App Developer at Board Infinity.
 - 🌱 &nbsp; Enthusiast in Data Science.
 - ✍️ &nbsp; Watching Documenteries and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of cold coffee can be the ultimate solution for any stress. 
