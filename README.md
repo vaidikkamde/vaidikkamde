@@ -5,21 +5,21 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I am a Hybrid App Developer.
-- 💻 &nbsp; React Js, React Native and Flutter.
+- 💻 &nbsp;  Flutter, React Native and React JS.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science from Lovely Professional University.
-- 💼 &nbsp; Full-stack web developer and App Developer at Board Infinity.
-- 🌱 &nbsp; Enthusiast in Data Science.
+- 💼 &nbsp; App Developer and upcoming Backend Developer at Board Infinity.
+- 🌱 &nbsp; Enthusiast in Learning.
 - ✍️ &nbsp; Watching Documenteries and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of cold coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Dart | C | C++  
-- 🌐 &nbsp; ReactJS | flutter | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | MongoDB
+- 💻 &nbsp; Dart | JavaScript | Python | C | C++   
+- 🌐 &nbsp; Flutter | ReactJS | HTML | CSS | JavaScript | Bootstrap 
+- 🛢 &nbsp; MongoDB | Learning SQL
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | InteliJ Idea | Git
-- 🖥 &nbsp; Adobe Xd | Filmora 
+- 🖥 &nbsp; Figma | Adobe Xd | Filmora 
 
 <br>
 
