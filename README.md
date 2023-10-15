@@ -4,8 +4,8 @@
 </a>
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I am a Hybrid App Developer.
-- 💻 &nbsp;  Flutter, React Native and React JS.
+- 🔭 &nbsp; I am a Backend and Hybrid App Developer.
+- 💻 &nbsp;  Flutter, and Node JS.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science from Lovely Professional University.
 - 💼 &nbsp; App Developer and upcoming Backend Developer at Board Infinity.
@@ -17,7 +17,7 @@
 
 - 💻 &nbsp; Dart | JavaScript | Python | C | C++   
 - 🌐 &nbsp; Flutter | ReactJS | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MongoDB | Learning SQL
+- 🛢 &nbsp; MongoDB | PostgreSQL
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | InteliJ Idea | Git
 - 🖥 &nbsp; Figma | Adobe Xd | Filmora 
 
