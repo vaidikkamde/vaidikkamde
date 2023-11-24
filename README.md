@@ -24,11 +24,11 @@
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaidikkamde&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="vaidik kamde's Github Stats">
+<img align="center" src="https://github-readme-stats-two-flame-70.vercel.app/api?username=vaidikkamde&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="vaidik kamde's Github Stats">
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaidikkamde&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/vaidikkamde/github-readme-stats)
+[![Top Langs](https://github-readme-stats-two-flame-70.vercel.app/api/top-langs/?username=vaidikkamde&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/vaidikkamde/github-readme-stats)
 
 <p align="center">
 <h3 align="center"> 🤝🏻 Connect with Me </h3>
