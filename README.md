@@ -5,9 +5,10 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I am a Backend and Hybrid App Developer.
-- 💻 &nbsp;  Flutter, and Node JS.
+- 💻 &nbsp; Dart,Flutter and Node JS.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science from Lovely Professional University.
+- 📖 &nbsp; Currently Trying to Learn GOLang.
+- 🎓 &nbsp; Computer Science Graduate from Lovely Professional University.
 - 💼 &nbsp; App Developer and upcoming Backend Developer at Board Infinity.
 - 🌱 &nbsp; Enthusiast in Learning.
 - ✍️ &nbsp; Watching Documenteries and trying out latest design trends as hobbies/side hustles.
